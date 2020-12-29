@@ -10,13 +10,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://deven.net/untitled.html</loc>
+    <loc>http://deven.net/about.html</loc>
     <lastmod>2020-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://deven.net/images/untitled-1.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://deven.net/menu.html</loc>
@@ -58,19 +55,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://deven.net/lilac.html</loc>
+    <loc>http://deven.net/untitled.html</loc>
+    <lastmod>2020-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deven.net/images/untitled-1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deven.net/dial.html</loc>
     <lastmod>2020-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://deven.net/images/lilac.jpg</image:loc>
+      <image:loc>http://deven.net/images/rebirth.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://deven.net/about.html</loc>
-    <lastmod>2020-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://deven.net/director.html</loc>
@@ -91,21 +91,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://deven.net/dead-man-walking.html</loc>
+    <loc>http://deven.net/lilac.html</loc>
     <lastmod>2020-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://deven.net/images/italty%202.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://deven.net/dial.html</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://deven.net/images/rebirth.jpg</image:loc>
+      <image:loc>http://deven.net/images/lilac.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -115,6 +106,24 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://deven.net/images/law%20and%20order.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deven.net/dead-man-walking.html</loc>
+    <lastmod>2020-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deven.net/images/italty%202.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deven.net/material.html</loc>
+    <lastmod>2020-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deven.net/images/alien.jpg</image:loc>
     </image:image>
   </url>
   <url>

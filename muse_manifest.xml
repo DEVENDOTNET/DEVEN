@@ -1,43 +1,57 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="deven.net" resolutions="1x" timestamp="1609291488414">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="deven.net" resolutions="1x" timestamp="1661120983790">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="record-room.css" crc="3777993599" ref="record-room"/>
+    <file name="director.css" crc="483088088" ref="director"/>
     <file name="untitled.css" crc="3976590402" ref="untitled"/>
+    <file name="museam.css" crc="3862613419" ref="museam"/>
+    <file name="about.css" crc="154359774" ref="about"/>
+    <file name="untitled-21.css" crc="410729027" ref="untitled-21"/>
+    <file name="inside.css" crc="4069709974" ref="inside"/>
+    <file name="night.css" crc="319846593" ref="night"/>
+    <file name="nice-day.css" crc="3852126264" ref="nice-day"/>
+    <file name="logans-ad.css" crc="3964057409" ref="logans-ad"/>
+    <file name="rome.css" crc="3834912800" ref="rome"/>
+    <file name="fuji.css" crc="29492873" ref="fuji"/>
+    <file name="discographie.css" crc="423542551" ref="discographie"/>
+    <file name="material.css" crc="3940453165" ref="material"/>
+    <file name="untitled-22.css" crc="225853374" ref="untitled-22"/>
     <file name="dead-man-walking.css" crc="4123593026" ref="dead-man-walking"/>
     <file name="index.css" crc="231698983" ref="index"/>
-    <file name="lilac.css" crc="436374911" ref="lilac"/>
-    <file name="fuji.css" crc="29492873" ref="fuji"/>
-    <file name="dial.css" crc="4221757677" ref="dial"/>
-    <file name="director.css" crc="483088088" ref="director"/>
-    <file name="song-collection.css" crc="3811385203" ref="song-collection"/>
-    <file name="about.css" crc="154359774" ref="about"/>
-    <file name="menu.css" crc="130445311" ref="menu"/>
     <file name="law-and-order.css" crc="13687623" ref="law-and-order"/>
-    <file name="night.css" crc="319846593" ref="night"/>
+    <file name="dial.css" crc="4221757677" ref="dial"/>
+    <file name="song-collection.css" crc="3811385203" ref="song-collection"/>
     <file name="earth.css" crc="113012151" ref="earth"/>
-    <file name="material.css" crc="3940453165" ref="material"/>
-    <file name="logans-ad.css" crc="3964057409" ref="logans-ad"/>
-    <file name="nice-day.css" crc="3852126264" ref="nice-day"/>
-    <file name="rome.css" crc="3834912800" ref="rome"/>
+    <file name="menu.css" crc="4101276218" ref="menu"/>
+    <file name="lilac.css" crc="436374911" ref="lilac"/>
   </folder>
   <folder name="assets">
-    <file name="mount-fuji-japan-hd-high-definition-widescreen-wallpapers-free-download-mobile-pc-computer-desktop-t.jpg" crc="427983728" seo="true" mt="1609109147000"/>
+    <file name="cloudy-day.mp3" crc="338203643" seo="true" mt="1646776106000"/>
+    <file name="cookware.mp3" crc="3980741690" seo="true" mt="1647142860000"/>
+    <file name="abprod3.html" crc="268242143" seo="true" mt="1661111625000"/>
+    <file name="abprod2.html" crc="4029052427" seo="true" mt="1661111626000"/>
+    <file name="abprod1.html" crc="3764207728" seo="true" mt="1661111889000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome"/>
-    <file name="museutils.js" crc="340535759" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome"/>
-    <file name="whatinput.js" crc="86476730" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome"/>
-    <file name="require.js" crc="7928878" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome:inside:museam:untitled-21:untitled-22:record-room:discographie"/>
+    <file name="museutils.js" crc="340535759" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome:inside:museam:untitled-21:untitled-22:record-room:discographie"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome:inside:museam:untitled-21:untitled-22:record-room:discographie"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome:inside:museam:untitled-21:untitled-22:record-room:discographie"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome:inside:museam:untitled-21:untitled-22:record-room:discographie"/>
+    <file name="require.js" crc="7928878" ref="index:menu:fuji:night:logans-ad:song-collection:untitled:about:director:earth:lilac:dial:dead-man-walking:law-and-order:material:nice-day:rome:inside:museam:untitled-21:untitled-22:record-room:discographie"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="discographie"/>
   </folder>
   <folder name="images">
     <file name="yo mama.gif" crc="20923519" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="output-onlinepngtools (1).png" crc="4056821768" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
     <file name="mount-fuji-japan-hd-high-definition-widescreen-wallpapers-free-download-mobile-pc-computer-desktop-t.jpg" crc="4107221640" seo="true" ref="fuji">
       <caption webpage="fuji" alt=""/>
     </file>
-    <file name="file-20181201-194932-cfho9d-crop-u392.jpg" crc="128330704" seo="true" ref="night">
+    <file name="file-20181201-194932-cfho9d-crop-u392.jpg" crc="79415014" seo="true" ref="night">
       <caption webpage="night" alt=""/>
     </file>
     <file name="logans_donuts_ad.jpg" crc="228640666" seo="true" ref="logans-ad">
@@ -46,11 +60,12 @@
     <file name="untitled-1.jpg" crc="259780676" seo="true" ref="untitled">
       <caption webpage="untitled" alt=""/>
     </file>
-    <file name="director-crop-u640.jpg" crc="4246334153" seo="true" ref="director">
+    <file name="director-crop-u640.jpg" crc="4027143288" seo="true" ref="director">
       <caption webpage="director" alt=""/>
     </file>
-    <file name="earth.jpg" crc="112544752" seo="true" ref="earth">
+    <file name="earth.jpg" crc="16048649" seo="true" ref="earth:untitled-21">
       <caption webpage="earth" alt=""/>
+      <caption webpage="untitled-21" alt=""/>
     </file>
     <file name="lilac.jpg" crc="95605038" seo="true" ref="lilac">
       <caption webpage="lilac" alt=""/>
@@ -73,16 +88,61 @@
     <file name="untitled-2.jpg" crc="4122223974" seo="true" ref="rome">
       <caption webpage="rome" alt=""/>
     </file>
+    <file name="u1335-4.png" crc="484788078" ref="museam"/>
+    <file name="untitled-2860x344.jpg" crc="255252672" seo="true" ref="untitled-21">
+      <caption webpage="untitled-21" alt=""/>
+    </file>
+    <file name="logans_donuts_ad277x359.jpg" crc="83777360" seo="true" ref="untitled-21">
+      <caption webpage="untitled-21" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (2).png" crc="4059693443" seo="true" ref="untitled-21:untitled-22:record-room">
+      <caption webpage="untitled-21" alt=""/>
+      <caption webpage="untitled-21" alt=""/>
+      <caption webpage="untitled-22" alt=""/>
+      <caption webpage="untitled-22" alt=""/>
+      <caption webpage="record-room" alt=""/>
+    </file>
+    <file name="screenshot 2021-03-19 200634-crop-u2868.jpg" crc="3856298973" seo="true" ref="untitled-22">
+      <caption webpage="untitled-22" alt=""/>
+    </file>
+    <file name="record room.png" crc="3954951046" seo="true" ref="record-room">
+      <caption webpage="record-room" alt=""/>
+    </file>
+    <file name="u3160-4.png" crc="91739925" ref="discographie"/>
+    <file name="cover 3.jpg" crc="3891767563" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="cover 2.jpg" crc="90496008" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="cover1-crop-u3107.jpg" crc="3861100611" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="imagine cover.jpg" crc="99840055" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="water cover-crop-u3140.jpg" crc="4208590602" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="bad cover.jpg" crc="132585452" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="horriblele cover.jpg" crc="4166862198" seo="true" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
+    <file name="huanted house.png" crc="3948099412" ref="discographie">
+      <caption webpage="discographie" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4058120703" seo="true" mt="1609268508708" redirect="true"/>
-  <file name="menu.html" crc="4267961097" seo="true" mt="1609291437897" redirect="true"/>
-  <file name="fuji.html" crc="190845453" seo="true" mt="1609115511899" redirect="true"/>
-  <file name="night.html" crc="3917954525" seo="true" mt="1609115585748" redirect="true"/>
+  <file name="index.html" crc="4266258906" seo="true" mt="1660939624004" redirect="true"/>
+  <file name="menu.html" crc="3806579336" seo="true" mt="1660939487373" redirect="true"/>
+  <file name="fuji.html" crc="190845453" seo="true" mt="1616027829571" redirect="true"/>
+  <file name="night.html" crc="4111601832" seo="true" mt="1609115585748" redirect="true"/>
   <file name="logans-ad.html" crc="4084128949" seo="true" mt="1609116008748" redirect="true"/>
   <file name="song-collection.html" crc="3909310265" seo="true" mt="1609275050730" redirect="true"/>
   <file name="untitled.html" crc="4182738076" seo="true" mt="1609118184381" redirect="true"/>
   <file name="about.html" crc="4112838534" seo="true" mt="1609123332638" redirect="true"/>
-  <file name="director.html" crc="3987741738" seo="true" mt="1609126009548" redirect="true"/>
+  <file name="director.html" crc="435163180" seo="true" mt="1609126009548" redirect="true"/>
   <file name="earth.html" crc="3779770256" seo="true" mt="1609267588969" redirect="true"/>
   <file name="lilac.html" crc="173222609" seo="true" mt="1609269729829" redirect="true"/>
   <file name="dial.html" crc="3994030087" seo="true" mt="1609269619699" redirect="true"/>
@@ -91,4 +151,10 @@
   <file name="material.html" crc="381186424" seo="true" mt="1609281952797" redirect="true"/>
   <file name="nice-day.html" crc="4051390163" seo="true" mt="1609291219192" redirect="true"/>
   <file name="rome.html" crc="3913718246" seo="true" mt="1609291400116" redirect="true"/>
+  <file name="inside.html" crc="268444161" seo="true" mt="1616010582592" redirect="true"/>
+  <file name="museam.html" crc="505918245" seo="true" mt="1616009224373" redirect="true"/>
+  <file name="untitled-21.html" crc="4175478843" seo="true" mt="1661116740571" redirect="true"/>
+  <file name="untitled-22.html" crc="492141225" seo="true" mt="1661116740572" redirect="true"/>
+  <file name="record-room.html" crc="3840795778" seo="true" mt="1661116740573" redirect="true"/>
+  <file name="discographie.html" crc="4291863550" seo="true" mt="1661118209906" redirect="true"/>
 </manifest>
